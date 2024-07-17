@@ -2169,7 +2169,8 @@ a.big-border:hover {
   padding: 200px 0;
 }
 
-.footer p {
+.footer a,
+footer p {
   color: #fff;
   line-height: 36px;
 }
