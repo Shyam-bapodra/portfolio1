@@ -1599,7 +1599,7 @@ a.big-border:hover {
 .lamd {
   position: absolute;
   top: 0px;
-  right: 20%;
+  right: 10%;
 }
 
 .content-we-are {
@@ -3070,7 +3070,7 @@ body.no-scroll {
   /* background:linear-gradient(#448aff,#000) */
   /* background:linear-gradient(#DCF2f1,#7fc7d9,#365486,#0f1035) */
   /* background:linear-gradient(#52c234,#061700)*/
-  background: linear-gradient(magenta, black);
+  background: linear-gradient( rgb(60, 60, 60), rgb(255, 255, 255), rgb(60, 60, 60));
 
   /* background: radial-gradient(farthest-side at 100px 800px, magenta 700px, black 100%); */
 }
@@ -3183,7 +3183,7 @@ body.no-scroll {
   outline: none;
   border-radius: 2px;
 }
-#abt,
+
 #wrk,
 #ser,
 #blog,
@@ -3191,3 +3191,8 @@ body.no-scroll {
   padding-top: 70px;
   padding-bottom: 70px;
 }
+#abt{
+  padding-top: 100px;
+  padding-bottom: 188px;
+}
+
