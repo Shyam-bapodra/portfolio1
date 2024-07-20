@@ -65,10 +65,10 @@ you can use the generic selector below, but it's slower:
 	content: "\e006";
 }
 .icon-screen-smartphone:before {
-	content: "\e010";
+	/* content: "\e010"; */
 }
 .icon-screen-desktop:before {
-	content: "\e011";
+	/* content: "\e011"; */
 }
 .icon-plane:before {
 	content: "\e012";
@@ -251,7 +251,7 @@ you can use the generic selector below, but it's slower:
 	content: "\e043";
 }
 .icon-cup:before {
-	content: "\e044";
+	/* content: "\e044"; */
 }
 .icon-compass:before {
 	content: "\e045";
@@ -323,7 +323,7 @@ you can use the generic selector below, but it's slower:
 	content: "\e05b";
 }
 .icon-rocket:before {
-	content: "\e05c";
+	/* content: "\e05c"; */
 }
 .icon-question:before {
 	content: "\e05d";
